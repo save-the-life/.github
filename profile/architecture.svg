@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1040" width="1200" height="1040" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="SL Protocol system architecture">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#3A4A5A"/></marker></defs>
+<rect width="1200" height="1040" fill="#FFFFFF"/>
+<text x="30" y="40" font-size="22" font-weight="800" fill="#14202B">SL Protocol — system architecture</text>
+<text x="30" y="62" font-size="13" fill="#5B6B7A">SL Labs Pte. Ltd. · as of September 2026 · solid = live today, dashed = planned (from token launch)</text>
+<rect x="30" y="80" width="1140" height="140" rx="14" fill="#EEF4FF" stroke="#D8E0E7"/>
+<text x="180" y="107" font-size="15" font-weight="700" fill="#14202B">Devices and apps</text>
+<rect x="1112" y="91" width="37" height="22" rx="11" fill="#1D8A4E"/>
+<text x="1131" y="106" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">LIVE</text>
+<rect x="60" y="122" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="160" y="147" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">HealthFi app</text>
+<text x="160" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">iOS / Android</text>
+<text x="160" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">vitals, ECG view, guardian alerts</text>
+<rect x="280" y="122" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="380" y="147" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">SL Watch</text>
+<text x="380" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">ECG wellness smartwatch (BLE)</text>
+<text x="380" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">not a medical device</text>
+<rect x="500" y="122" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="600" y="147" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Pet Tooth AI</text>
+<text x="600" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">veterinary dental X-ray</text>
+<text x="600" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">reading assistant (web)</text>
+<rect x="720" y="122" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="820" y="147" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Thor</text>
+<text x="820" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">ambassador hub</text>
+<text x="820" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">missions and content</text>
+<rect x="940" y="122" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="1040" y="147" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Health Hero</text>
+<text x="1040" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">Toss mini-app (Korea)</text>
+<text x="1040" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">points only, no $SL</text>
+<path d="M280 164 L264 164" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<rect x="30" y="240" width="1140" height="140" rx="14" fill="#EDF9F3" stroke="#D8E0E7"/>
+<text x="180" y="267" font-size="15" font-weight="700" fill="#14202B">Off-chain services</text>
+<rect x="1112" y="251" width="37" height="22" rx="11" fill="#1D8A4E"/>
+<text x="1131" y="266" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">LIVE</text>
+<rect x="60" y="282" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="160" y="307" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">HealthFi API</text>
+<text x="160" y="327" font-size="12" fill="#5B6B7A" text-anchor="middle">health data, alerts,</text>
+<text x="160" y="343" font-size="12" fill="#5B6B7A" text-anchor="middle">points ledger</text>
+<rect x="280" y="282" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="380" y="307" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">ECG risk screening</text>
+<text x="380" y="327" font-size="12" fill="#5B6B7A" text-anchor="middle">CNN-LSTM model, research-</text>
+<text x="380" y="343" font-size="12" fill="#5B6B7A" text-anchor="middle">validated, not a diagnosis</text>
+<rect x="500" y="282" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="600" y="307" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Reading pipeline</text>
+<text x="600" y="327" font-size="12" fill="#5B6B7A" text-anchor="middle">de-identification, AI draft,</text>
+<text x="600" y="343" font-size="12" fill="#5B6B7A" text-anchor="middle">vet-reviewed report</text>
+<rect x="720" y="282" width="420" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
+<text x="930" y="307" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Activity points ledgers</text>
+<text x="930" y="327" font-size="12" fill="#5B6B7A" text-anchor="middle">HealthFi · Thor · Health Hero</text>
+<text x="930" y="343" font-size="12" fill="#5B6B7A" text-anchor="middle">non-transferable, never 1:1 with $SL</text>
+<path d="M160 206 L160 278" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<path d="M260 324 L276 324" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<path d="M600 206 L600 278" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<path d="M820 206 L820 278" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<path d="M1040 206 L1040 278" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<rect x="30" y="400" width="1140" height="140" rx="14" fill="#FFF7E6" stroke="#D8E0E7"/>
+<text x="180" y="427" font-size="15" font-weight="700" fill="#14202B">Settlement layer</text>
+<rect x="946" y="411" width="203" height="22" rx="11" fill="#A8780A"/>
+<text x="1048" y="426" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">PLANNED · FROM TOKEN LAUNCH</text>
+<rect x="280" y="442" width="420" height="84" rx="10" fill="#FFFFFF" stroke="#A8780A" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="490" y="467" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">AI-service credit settlement</text>
+<text x="490" y="487" font-size="12" fill="#5B6B7A" text-anchor="middle">AI reads and reports priced in $SL</text>
+<text x="490" y="503" font-size="12" fill="#5B6B7A" text-anchor="middle">one settlement credit across all networks</text>
+<rect x="720" y="442" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#A8780A" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="820" y="467" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Points → $SL conversion</text>
+<text x="820" y="487" font-size="12" fill="#5B6B7A" text-anchor="middle">fixed monthly pool, KYC,</text>
+<text x="820" y="503" font-size="12" fill="#5B6B7A" text-anchor="middle">region checks, 6-month lock</text>
+<rect x="940" y="442" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#A8780A" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="1040" y="467" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Distribution Safe</text>
+<text x="1040" y="487" font-size="12" fill="#5B6B7A" text-anchor="middle">2-of-3 multisig</text>
+<text x="1040" y="503" font-size="12" fill="#5B6B7A" text-anchor="middle">server holds no keys</text>
+<path d="M380 366 L380 438" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<path d="M600 366 L600 438" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<path d="M820 366 L820 438" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<path d="M920 484 L936 484" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<rect x="30" y="590" width="1140" height="190" rx="14" fill="#F2EFFF" stroke="#D8E0E7"/>
+<text x="180" y="617" font-size="15" font-weight="700" fill="#14202B">opBNB (BNB Chain L2)</text>
+<rect x="400" y="601" width="268" height="22" rx="11" fill="#5B45C9"/>
+<text x="534" y="616" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">AUDITED · MAINNET DEPLOYMENT PENDING</text>
+<rect x="60" y="652" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#5B45C9" stroke-width="1.8"/>
+<text x="160" y="677" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">SLToken</text>
+<text x="160" y="697" font-size="12" fill="#5B6B7A" text-anchor="middle">ERC-20, fixed 2,000,000,000</text>
+<text x="160" y="713" font-size="12" fill="#5B6B7A" text-anchor="middle">no mint / tax / pause</text>
+<rect x="280" y="652" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#5B45C9" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="380" y="677" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Foundation Safe</text>
+<text x="380" y="697" font-size="12" fill="#5B6B7A" text-anchor="middle">2-of-3 multisig</text>
+<text x="380" y="713" font-size="12" fill="#5B6B7A" text-anchor="middle">hardware wallets</text>
+<rect x="500" y="652" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#5B45C9" stroke-width="1.8"/>
+<text x="600" y="677" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Timelock (owner)</text>
+<text x="600" y="697" font-size="12" fill="#5B6B7A" text-anchor="middle">48-hour delay on every</text>
+<text x="600" y="713" font-size="12" fill="#5B6B7A" text-anchor="middle">vesting admin action</text>
+<rect x="720" y="652" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#5B45C9" stroke-width="1.8"/>
+<text x="820" y="677" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">SLVesting</text>
+<text x="820" y="697" font-size="12" fill="#5B6B7A" text-anchor="middle">cliff + linear schedule</text>
+<text x="820" y="713" font-size="12" fill="#5B6B7A" text-anchor="middle">per allocation bucket</text>
+<rect x="940" y="652" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#5B45C9" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="1040" y="677" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">User's own wallet</text>
+<text x="1040" y="697" font-size="12" fill="#5B6B7A" text-anchor="middle">self-custody</text>
+<text x="1040" y="713" font-size="12" fill="#5B6B7A" text-anchor="middle">external wallet connect</text>
+<path d="M480 694 L496 694" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<path d="M700 694 L716 694" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<path d="M490 526 L490 556 L160 556 L160 648" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<text x="325" y="550" font-size="11.5" fill="#5B6B7A" text-anchor="middle" font-style="italic">pay in $SL</text>
+<path d="M820 652 L820 574 L1010 574 L1010 530" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<text x="915" y="568" font-size="11.5" fill="#5B6B7A" text-anchor="middle" font-style="italic">release() after lock</text>
+<path d="M1070 526 L1070 648" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<path d="M820 736 L820 758 L200 758 L200 740" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
+<text x="510" y="773" font-size="11.5" fill="#5B6B7A" text-anchor="middle" font-style="italic">locked allocations are held by SLVesting</text>
+<rect x="30" y="800" width="1140" height="130" rx="14" fill="#F4F6F8" stroke="#D8E0E7"/>
+<text x="180" y="827" font-size="15" font-weight="700" fill="#14202B">Markets</text>
+<rect x="1090" y="811" width="59" height="22" rx="11" fill="#A8780A"/>
+<text x="1120" y="826" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">PLANNED</text>
+<rect x="60" y="842" width="310" height="70" rx="10" fill="#FFFFFF" stroke="#73828F" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="215" y="867" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Official opBNB bridge</text>
+<text x="215" y="887" font-size="12" fill="#5B6B7A" text-anchor="middle">BSC (BEP-20) representation</text>
+<rect x="400" y="842" width="310" height="70" rx="10" fill="#FFFFFF" stroke="#73828F" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="555" y="867" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">PancakeSwap pool</text>
+<text x="555" y="887" font-size="12" fill="#5B6B7A" text-anchor="middle">opens 72 h after first listing, LP locked 24 months</text>
+<rect x="740" y="842" width="400" height="70" rx="10" fill="#FFFFFF" stroke="#73828F" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="940" y="867" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Centralized exchange listing</text>
+<text x="940" y="887" font-size="12" fill="#5B6B7A" text-anchor="middle">SL/USDT, with a contracted market maker</text>
+<path d="M120 736 L120 838" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<path d="M370 877 L396 877" fill="none" stroke="#3A4A5A" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<rect x="30" y="952" width="26" height="14" rx="4" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/><text x="64" y="964" font-size="12.5" fill="#14202B">live today</text>
+<rect x="150" y="952" width="26" height="14" rx="4" fill="#FFFFFF" stroke="#A8780A" stroke-width="1.8" stroke-dasharray="7 5"/><text x="184" y="964" font-size="12.5" fill="#14202B">planned</text>
+<text x="30" y="992" font-size="12" fill="#5B6B7A">Token and vesting contracts were audited by QuillAudits (Aug 2026) with Certora formal verification. No $SL exists on mainnet yet; only testnet deployments.</text>
+<text x="30" y="1010" font-size="12" fill="#5B6B7A">Conversion of points to $SL is not available to residents of the Republic of Korea or the United States. SL Watch outputs are wellness indicators, not clinical measurements.</text>
+</svg>
