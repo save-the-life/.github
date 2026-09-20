@@ -19,6 +19,12 @@
 - Token and vesting contracts were audited by QuillAudits (August 2026, all findings resolved) with Certora formal verification. The audited source is in `SL_TOKEN` and CI checks that the two audited files stay byte-identical to the audited commit.
 - **Mainnet deployment has not happened yet.** Only testnet deployments exist (opBNB testnet / BSC testnet). Official contract addresses will be published here and on savethelife.io. Any token presented as $SL before that announcement is not ours.
 
+## Architecture
+
+![SL Protocol system architecture](https://raw.githubusercontent.com/save-the-life/.github/main/profile/architecture.svg)
+
+Solid boxes are live today; dashed boxes are planned from the token launch. The apps, the HealthFi API, the ECG risk-screening model and the veterinary reading pipeline run off-chain. On-chain, the audited `SLToken` and `SLVesting` contracts sit behind a 48-hour timelock owned by a 2-of-3 multisig. Points earned in the apps are non-transferable and are never pegged 1:1 to $SL; conversion runs through a fixed monthly pool with KYC, region checks and a 6-month lock, and tokens are sent from a multisig to the user's own wallet — the servers hold no keys.
+
 ## Products
 
 - **HealthFi** — companion app for the SL Watch ECG smartwatch (iOS / Android). The SL Watch is a wellness device, not a medical device; medical-device features will only be offered after regulatory approval.
