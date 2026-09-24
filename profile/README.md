@@ -30,6 +30,7 @@ Solid boxes are live today; dashed boxes are planned from the token launch. The 
 - **HealthFi** — companion app for the SL Watch ECG smartwatch (iOS / Android). The SL Watch is a wellness device, not a medical device; medical-device features will only be offered after regulatory approval.
 - **Pet Tooth AI** — veterinary dental X-ray reading assistant, built with technology partner DIGIRAY Co., Ltd.
 - **Thor** — ambassador hub for the community.
+- **Lucky Dice** — mini-app on LINE with activity points.
 - **Health Hero** — health mini-app on Toss (Korea).
 
 ## Repositories
