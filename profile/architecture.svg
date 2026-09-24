@@ -24,9 +24,9 @@
 <text x="820" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">ambassador hub</text>
 <text x="820" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">missions and content</text>
 <rect x="940" y="122" width="200" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
-<text x="1040" y="147" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Health Hero</text>
-<text x="1040" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">Toss mini-app (Korea)</text>
-<text x="1040" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">points only, no $SL</text>
+<text x="1040" y="147" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Lucky Dice · Health Hero</text>
+<text x="1040" y="167" font-size="12" fill="#5B6B7A" text-anchor="middle">LINE / Toss mini-apps</text>
+<text x="1040" y="183" font-size="12" fill="#5B6B7A" text-anchor="middle">activity points</text>
 <path d="M280 164 L264 164" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
 <rect x="30" y="240" width="1140" height="140" rx="14" fill="#EDF9F3" stroke="#D8E0E7"/>
 <text x="180" y="267" font-size="15" font-weight="700" fill="#14202B">Off-chain services</text>
@@ -46,7 +46,7 @@
 <text x="600" y="343" font-size="12" fill="#5B6B7A" text-anchor="middle">vet-reviewed report</text>
 <rect x="720" y="282" width="420" height="84" rx="10" fill="#FFFFFF" stroke="#3D5AFE" stroke-width="1.8"/>
 <text x="930" y="307" font-size="14.5" font-weight="700" fill="#14202B" text-anchor="middle">Activity points ledgers</text>
-<text x="930" y="327" font-size="12" fill="#5B6B7A" text-anchor="middle">HealthFi · Thor · Health Hero</text>
+<text x="930" y="327" font-size="12" fill="#5B6B7A" text-anchor="middle">HealthFi · Thor · Lucky Dice · Health Hero</text>
 <text x="930" y="343" font-size="12" fill="#5B6B7A" text-anchor="middle">non-transferable, never 1:1 with $SL</text>
 <path d="M160 206 L160 278" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
 <path d="M260 324 L276 324" fill="none" stroke="#3A4A5A" stroke-width="1.7" marker-end="url(#arr)"/>
